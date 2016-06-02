@@ -1,7 +1,7 @@
 # bootstrap101
 My first repository in git :)
 
-## Git tips
+## My Git tips
 
 ### Cloning a repository
 
@@ -41,6 +41,10 @@ After any change, we need to follow the next steps:
  1. Commit the changes with a comment.
   ```
   git commit -m "describing the change"
+  ```
+ 1. List the commits
+  ```
+  git log
   ```
  1. Push to github
   ```
